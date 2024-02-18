@@ -1,0 +1,71 @@
+.div{
+    display: flex;
+}
+.div2{
+    display: flex;
+    margin-left: 5px;
+}
+
+.divBtn{
+    color: white;
+    align-items: center;
+    text-align: center;
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    margin-top: 3px;
+  
+}
+.divBtn2{
+    color: white;
+    align-items: center;
+    text-align: center;
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    margin-top: 3px;
+    display: flex;
+    
+
+}
+.divBtn3{
+    color: white;
+    align-items: center;
+    text-align: center;
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    margin-top: 3px;
+    display: flex;
+    
+
+}
+.m{
+    color: white;
+    align-items: center;
+    text-align: center;
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    margin-top: 3px;
+  
+}
+
+.close{
+    display: none;
+}
+
+.open{
+    display: block;
+}
+#btn3{
+    margin-left: 3px;
+    
+
+}
+#btn4{
+    margin-left: 3px;
+
+
+}
+
